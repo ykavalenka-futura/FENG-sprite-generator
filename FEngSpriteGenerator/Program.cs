@@ -27,7 +27,7 @@ namespace FEngSpriteGenerator
             Console.WriteLine("Usage: FEngSpriteGenerator <input_directory> <output_directory> "
                   + "[align] [output_filename] [padding_value]");
             Console.WriteLine("\t<input_directory>  \t- Path to the directory containing input images.");
-            Console.WriteLine("\t<output_directory> \t- Path to the directory where the generated sprite will be saved");
+            Console.WriteLine("\t<output_directory> \t- Path to the directory where the generated sprite will be saved.");
             Console.WriteLine($"\t-align            \t- Optional. Alignment of the generated sprite (V for vertical, H for horizontal). Defaults to '{defaultAlign}'.");
             Console.WriteLine($"\t-output_filename  \t- Optional. Name of the generated sprite file. Defaults to '{defaultOutputFileName}'.'");
             Console.WriteLine($"\t-padding_value    \t- Optional. Padding between images in the sprite. Defaults to '{defaultPadding}' pixels.");
