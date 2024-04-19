@@ -1,4 +1,4 @@
-## Futura Engeniering sprite generator
+## Futura Engineering sprite generator
 
 ### How to use:
 
