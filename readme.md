@@ -4,11 +4,13 @@
 
 Build project, open console and run application `FEngSpriteGenerator.exe` with next arguments:
 
-``` --{ArgumentKey.InputDir}=<value> --{ArgumentKey.OutputDir}=<value> ```
-``` [--{ArgumentKey.Align}=<value>] [--{ArgumentKey.OutputFileName}=<value>] [--{ArgumentKey.PaddingValue}=<value>] ```
-``` [--{ArgumentKey.SpriteCssClassName}=<value>] [--{ArgumentKey.SpriteCssItemFormat}=<value>] ```
-``` [--{ArgumentKey.SpriteCssClassName}=<value>] [--{ArgumentKey.SpriteCssItemFormat}=<value>] ```
-``` [--{ArgumentKey.OutputCssFileName}=<value>] [--{ArgumentKey.OutputCssDir}=<value>] ```
+``` 
+--{ArgumentKey.InputDir}=<value> --{ArgumentKey.OutputDir}=<value> 
+[--{ArgumentKey.Align}=<value>] [--{ArgumentKey.OutputFileName}=<value>] [--{ArgumentKey.PaddingValue}=<value>] 
+[--{ArgumentKey.SpriteCssClassName}=<value>] [--{ArgumentKey.SpriteCssItemFormat}=<value>]
+[--{ArgumentKey.SpriteCssClassName}=<value>] [--{ArgumentKey.SpriteCssItemFormat}=<value>]
+[--{ArgumentKey.OutputCssFileName}=<value>] [--{ArgumentKey.OutputCssDir}=<value>] 
+```
 
 ### Argumenst:
 
