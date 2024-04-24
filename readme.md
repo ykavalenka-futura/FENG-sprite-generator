@@ -1,4 +1,6 @@
-## Futura Engineering sprite generator
+Futura Solutions GmbH
+
+## Sprite generator
 
 ### How to use:
 
